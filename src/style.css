@@ -318,9 +318,10 @@ button:focus {
 }
 
 .home-about-section {
-  position: relative;
+  position:relative;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
+  align-items: center;
 }
 
 .home-about-description {
@@ -333,7 +334,7 @@ button:focus {
 .home-about-body {
   padding-top: 50px;
   font-size: 1.2em !important;
-  text-align: left;
+  text-align: center;
 }
 
 .home-about-social {
