@@ -25,7 +25,7 @@ I am continuously expanding my skill set to take on new challenges and contribut
 Let's connect! You can reach out to me through the following channels:
 
 - GitHub: [My GitHub Profile](https://github.com/MeghanaNalla)
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/meghanarn)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/meghanarn/)
 - Email: meghanareddynalla1809@gmail.com
 - Personal Website: [My Portfolio Website](https://portfolio-lykl.onrender.com)
 
